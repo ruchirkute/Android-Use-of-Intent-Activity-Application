@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Activity-to-Activity</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_activity_secondary">activity_secondary</string>
+    <string name="title_activity_secondary">secondary</string>
+    <string name="title_activity_third">third</string>
+</resources>
